@@ -1,5 +1,7 @@
 
-# Neonatal CO₂ Prediction with Machine Learning & Explainable AI
+# Project Title: Developing an Explainable Machine Learning Model for CO2 Prediction in Neonatal Care to Enhance Respiratory Support
+# Supervisor: Dr. H.K Lam
+# Done by: Gabriella Fawaz
 
 Accurate and real-time monitoring of end-tidal carbon dioxide (etCO₂) levels is critical in neonatal intensive care (NICU) to ensure optimal respiratory support for premature and critically ill newborns.
 Traditional CO₂ monitoring methods can be invasive, inaccurate, and lack real-time predictive capabilities.
