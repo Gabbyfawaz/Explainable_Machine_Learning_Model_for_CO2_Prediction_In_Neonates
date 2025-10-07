@@ -67,39 +67,6 @@ Machine Learning: Time Series Forecasting, Gradient Boosting, Neural Networks
 Explainability: Feature importance, interpretable ML techniques
 Validation: k-Fold Cross Validation, MAPE
 
-## How to Use
-
-1. Clone the repository
-```
-git clone https://github.com/your-username/neonatal-co2-prediction.git
-cd neonatal-co2-prediction
-```
-
-2. Install dependencies
-```
-pip install -r requirements.txt
-```
-
-3. Run preprocessing
-```
-python preprocess.py
-```
-
-4. Train the model
-```
-python train.py --model xgboost --window 24
-```
-
-5. Evaluate the model
-```
-python evaluate.py --model xgboost
-```
-
-6. Visualize feature importance
-```
-python explain.py
-```
-
 ## Future Work
 
 Integration into real-time NICU monitoring systems
